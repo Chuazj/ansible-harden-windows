@@ -143,3 +143,7 @@ Infosec community is GREAT!
 
 BSD 2-clause
 
+## Names
+
+SGKDG
+SGKCH
